@@ -25,13 +25,12 @@
 -  you will get msf6
 -  And After
 - ![1_vYyh1BcTAxysdOKYpbWjYg](https://github.com/user-attachments/assets/88fb3e8a-d276-44f7-a44c-c35519021158)
-```- **use1**
+- **use1**
 - ![1_i0hVEshkcVHx4unvqfV4gg](https://github.com/user-attachments/assets/268ac80a-eb8a-4e81-a412-a280936df712)
 - **set RHOSTS 192.168.1.7**
   ![1_dQ4C8mnztFsqlIDKfaET_Q](https://github.com/user-attachments/assets/ae64d4e2-16b3-4b48-b374-6c1a027e33a9)
 - **run**
 ![1__mNmz52EWe1j-2-RfrAP_A](https://github.com/user-attachments/assets/ac9354d6-8c8c-483f-a5ee-cc670cb34ccd)
-```
 - and we got the meterpreter shell
 - ![1_zGF30kTNo0bayg3SM2ezUQ](https://github.com/user-attachments/assets/5f293e8a-6e73-4412-9beb-ec7a67453dbe)
 # And we got our first flag flag1.txt
