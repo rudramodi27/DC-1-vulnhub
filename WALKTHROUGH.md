@@ -4,7 +4,7 @@
 
 # Step 2 
 
--     nmap -A 192.168.1.7(ip Address)
+-     nmap -A 192.168.1.7
 
 - The NMAP scan indicates that three ports are open: 22 (SSH), 80 (HTTP), and 111 (RPC).
 - Discovering that port 80 is running HTTP, we proceed to open the IP address in our web browser.
