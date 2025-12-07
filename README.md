@@ -1,7 +1,7 @@
 # DC-1-vulnhub
 
 **⚠️ DISCLAIMER:**  
-Ye repo sirf educational / lab‑practice ke liye hai. Kabhi bhi public ya unauthorized systems par isse use na karein.  
+This repo is for educational/lab practice purposes only. Never use it on public or unauthorized systems.
 
 # Project
 DC-1 - VulnHub — Repo to document the full process of solving the DC-1 VM: reconnaissance, enumeration, exploitation, privilege escalation, and post-exploitation notes. This repo is for educational and legal-purpose lab practice only.
